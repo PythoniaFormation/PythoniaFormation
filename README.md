@@ -17,3 +17,6 @@ Transformers?
 Langchain? 
 
 Tous ces cours et tutoriels arrivent dans très peu de temps.
+
+
+Pour ceux qui ne veulent pas plonger dans les profondeurs de l'IA mais juste apprendre à se servir de chatgpt, voici <a href="https://www.amazon.fr/Guide-COMPLET-ChatGPT-meilleur-puissance-ebook/dp/B0C7HJC841">le guide chatgpt</a> en version kindle régulièrement mis à jour.
