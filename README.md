@@ -1,4 +1,4 @@
-Qui sommes nous? 
+<h1>Qui sommes nous?</h1> 
 Chez Pythonia, nous sommes quelques fou furieux avec le seul but de rendre les concepts compliqués en programmation et en IA accessibles et intuitif.
 
 Nous créons des tutoriels qui vous permettent de comprendre les concepts et techniques mais nous ne sous arrêtons pas là. On est aussi des experts de l'enseignement
