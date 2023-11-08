@@ -5,3 +5,14 @@ Nous créons des tutoriels qui vous permettent de comprendre les concepts et tec
 et on utilise plusieurs méthodes pour vous aider à apprendre plus vite et mieux.
 
 Nos tutoriels: https://www.pythoniaformation.com/blog/tutoriels-python-par-categories
+
+
+<h2>Par où commencer ?</h2>
+Deep learning? 
+OpenCV
+Computer vision? 
+NLP?
+ChatGPT? 
+Transformers? 
+
+Tous ces cours et tutoriels arrivent dans très peu de temps.
