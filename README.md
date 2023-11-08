@@ -14,5 +14,6 @@ Deep learning? <br>
 NLP?<br>
 <a href="https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/fun-ia-application/chatgpt-guide-ultime-partie1">ChatGPT?</a> <br>
 Transformers? 
+Langchain? 
 
 Tous ces cours et tutoriels arrivent dans très peu de temps.
