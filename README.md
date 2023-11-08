@@ -8,11 +8,11 @@ Nos tutoriels: https://www.pythoniaformation.com/blog/tutoriels-python-par-categ
 
 
 <h2>Par où commencer ?</h2>
-Deep learning? 
-<a href="https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision/opencv-bases-partie1"> OpenCV</a>
-<a href="https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision">Computer vision? </a>
-NLP?
-<a href="https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/fun-ia-application/chatgpt-guide-ultime-partie1">ChatGPT?</a> 
+Deep learning? <br>
+<a href="https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision/opencv-bases-partie1"> OpenCV</a><br>
+<a href="https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision">Computer vision? </a><br>
+NLP?<br>
+<a href="https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/fun-ia-application/chatgpt-guide-ultime-partie1">ChatGPT?</a> <br>
 Transformers? 
 
 Tous ces cours et tutoriels arrivent dans très peu de temps.
